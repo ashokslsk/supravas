@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Supravas_beta</string>
+    <string name="Press_for_dash_board">DashBoard</string>
+    <string name="Quit_supravas">Quit</string>
+    <string name="Accelerometer_init">supravas_sense</string>
+    <string name="Initsense">Supravas-&gt;Sense</string>
+    <string name="driving_tips">Tips  goes here </string>
+    <string name="about_text_view">about</string>
+    <string name="tips_text_view">Tips</string>
+    <string name="cb_sampling_text">Sampling</string>
+	<string name="cb_sound_text">Sound</string>
+	<string name="sensitivity">Sensitivity: 3.0</string>
+	<string name="noise">Noise sensitivity: 3</string>
+	<string name="profile_fill">Profile</string>
+	<string name="fact1">You can squeeze 8 motorbikes in the same parking space as a car.</string>
+	<string name="fact2">The Honda Super Cub has been in production for over 50 years. With over 60 million in sales it is the most produced motor vehicle in the world!</string>
+	<string name="fact3">On average, motorbikes are twice as efficient as cars.</string>
+    <string name="fact4">The first ever bike to hit the 200 mph was the supercharged 499cc NSU back in 1956.</string>
+    <string name="fact5">80% of all stolen motorbikes are stolen from the owner’s property. Be aware.!!</string>
+    <string name="fact6">The longest motorbike in the world was over 31 feet long! It was built by a Russian named Oleg Rogov.</string>
+    <string name="fact7">The Vespa brand of scooter got its name from the Italian word for wasp.</string>
+    <string name="fact8">The Netherlands has more bike users than any other country with about 99% of the population owning and travelling by bike!</string>
+	<string name="fact9">The first Harley Davidson motorcycle built in 1903 used a tomato can for a carburetor.</string>
+	<string name="fact10">Motorcyclists are 35 times more likely to experience a deadly accident on the road than those in passenger cars.</string>
+	<string name="fact11">In 2006, 88,000 motorcyclists were injured in highway accidents alone.</string>
+	<string name="fact12">Motorcycle rider death rates increased among all rider age groups between 1998 and 2000.</string>
+	<string name="fact13">Motorcycle rider deaths were nearly 30 times more than drivers of other vehicles.</string>
+	<string name="fact14">Motorcycle riders aged below 40 are 36 times more likely to be killed than other vehicle operators of the same age.</string>
+	<string name="fact15">Motorcycle riders aged 40 years and over are around 20 times more likely to be killed than other drivers of that same age.</string>
+	<string name="fact16">Approximately 80 percent of reported motorcycle crashes result in injury or death; a comparable figure for automobiles is about 20 percent</string>
+</resources>
